@@ -1,0 +1,10 @@
+﻿  vary_table.cpp
+D:\University\bangbienthien\function\vary_table\vary_table.cpp(57,10): warning C4477: 'printf' : format string '%.3f' requires an argument of type 'double', but variadic argument 3 has type 'int'
+D:\University\bangbienthien\function\vary_table\vary_table.cpp(57,10): warning C4477: 'printf' : format string '%.3f' requires an argument of type 'double', but variadic argument 4 has type 'int'
+D:\University\bangbienthien\function\vary_table\vary_table.cpp(66,10): warning C4477: 'printf' : format string '%.3f' requires an argument of type 'double', but variadic argument 3 has type 'int'
+D:\University\bangbienthien\function\vary_table\vary_table.cpp(66,10): warning C4477: 'printf' : format string '%.3f' requires an argument of type 'double', but variadic argument 4 has type 'int'
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  vary_table.vcxproj -> D:\University\bangbienthien\function\Release\vary_table.exe
